@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "nombre": "Nike Air Max 90",
+      "marca": "Nike",
+      "descripcion": "Zapatillas icónicas con una unidad Air visible y gran amortiguación.",
+      "talla_disponibles": [38, 39, 40, 41, 42, 43, 44],
+      "colores_disponibles": ["Blanco", "Negro", "Rojo"],
+      "precio": 120.99,
+      "en_stock": true,
+      "imagenes": [
+        "nike_air_max_90_1.jpg",
+        "nike_air_max_90_2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Adidas Ultraboost 21",
+      "marca": "Adidas",
+      "descripcion": "Zapatillas de alto rendimiento con tecnología Boost para mayor comodidad.",
+      "talla_disponibles": [39, 40, 41, 42, 43],
+      "colores_disponibles": ["Negro", "Azul", "Gris"],
+      "precio": 180.00,
+      "en_stock": false,
+      "imagenes": [
+        "adidas_ultraboost_21_1.jpg",
+        "adidas_ultraboost_21_2.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Puma Suede Classic",
+      "marca": "Puma",
+      "descripcion": "Zapatillas clásicas de gamuza con estilo retro.",
+      "talla_disponibles": [40, 41, 42, 43, 44, 45],
+      "colores_disponibles": ["Verde", "Negro", "Azul"],
+      "precio": 75.50,
+      "en_stock": true,
+      "imagenes": [
+        "puma_suede_classic_1.jpg",
+        "puma_suede_classic_2.jpg"
+      ]
+    }
+  ]
