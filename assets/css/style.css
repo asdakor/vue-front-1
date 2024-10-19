@@ -299,7 +299,34 @@ main.min-main{
     margin-left: 80px;
 }
 
+.card-footer {
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    text-align: end;
+    padding-left: 50%;
+}
 
+.card-title {
+    color: #212529;
+    font-size: 20pt;
+}
+
+.card-text {
+    color: #707070;
+    font-size: 16pt;
+}
+
+.card-direccion {
+    color: #707070;
+    font-size: 13pt;
+}
+
+#card-ofertas {
+    padding: 15px;
+    margin-top: 15px;
+}
 
 /*------------------> Responsive*/
 @media (max-height: 660px){
